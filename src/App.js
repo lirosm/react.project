@@ -14,7 +14,7 @@ function App() {
        <h1>
 Hello react
        </h1>
-        <Weather />
+        <Weather city ="Oslo" />
  
       </header>
     </div>
