@@ -1,5 +1,7 @@
-import react from "react";
-import WeatherSearch from "./WeatherSearch";
+
+
+import React from "react";
+import WeatherSearch from "./WeatherSearch.js";
 import "./styles.css";
 
 
